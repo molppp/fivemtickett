@@ -1,0 +1,23 @@
+{
+    "workingHours": {
+        "Pazartesi": "12.00 - 23.00",
+        "Sali": "12.00 - 23.00",
+        "Carsamba": "12.00 - 23.00",
+        "Persembe": "12.00 - 23.00",
+        "Cuma": "12.00 - 23.00",
+        "Cumartesi": "12.00 - 23.59",
+        "Pazar": "12.00 - 23.59"
+    },    
+
+    "token": "",
+    "parent": "",
+    "roleStaffId": "",
+    "logChannel": "",
+    "guildid": "",
+    "voicechannel": "",
+    "status": "MODLOFF Youtube Ticket",
+    "ticketbanner": "https://media.discordapp.net/attachments/1222134602437623828/1222134759002476584/image.png?ex=66151cb0&is=6602a7b0&hm=4fa59bbcca1c2e8eb0e17ba97ba67c79b3c71a9a845ba24930a7aae2c12d02f8&=&format=webp&quality=lossless",
+    "aktifbanner": "https://media.discordapp.net/attachments/1222134602437623828/1222134759002476584/image.png?ex=66151cb0&is=6602a7b0&hm=4fa59bbcca1c2e8eb0e17ba97ba67c79b3c71a9a845ba24930a7aae2c12d02f8&=&format=webp&quality=lossless",
+    "restartbanner": "https://media.discordapp.net/attachments/1222134602437623828/1222134759002476584/image.png?ex=66151cb0&is=6602a7b0&hm=4fa59bbcca1c2e8eb0e17ba97ba67c79b3c71a9a845ba24930a7aae2c12d02f8&=&format=webp&quality=lossless",
+    "bakimbanner": "https://media.discordapp.net/attachments/1222134602437623828/1222134759002476584/image.png?ex=66151cb0&is=6602a7b0&hm=4fa59bbcca1c2e8eb0e17ba97ba67c79b3c71a9a845ba24930a7aae2c12d02f8&=&format=webp&quality=lossless"
+}
